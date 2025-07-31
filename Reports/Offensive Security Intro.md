@@ -20,9 +20,11 @@
 
 ### 1. **Discovery using dirb**
 -I used "dirb" tool to enumerate possible hidden pages on the target.
+
 -Find a functionality page that allows interaction with user accounts.
 ### 2. **Exploitation**
 -Navigated to discovered page.
+
 -Use functionality to add funds to my own account.
 
 
