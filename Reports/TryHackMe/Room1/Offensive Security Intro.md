@@ -33,7 +33,7 @@
 
 ## 📷 Screenshots 
 ![Room1.1.png](https://github.com/RealMohd/My-Cybersecurity-Portfolio/blob/main/Reports/TryHackMe/Room1/Room1.1.png).
-![Screenshot 2025-07-29035741.png](https://www.dropbox.com/scl/fi/thtvuxtgm16ehpb2d5914/Screenshot-2025-07-29-035741.png?rlkey=xnbhyl4mkd4mj77vhipql5bmn&dl=0&raw=1)
+![Room1.2.png](https://github.com/RealMohd/My-Cybersecurity-Portfolio/blob/main/Reports/TryHackMe/Room1/Room1.2.png)
 ---
 ## 📌 Notes
 - In this room I learn how to use dirb tool for directory brute-force.
