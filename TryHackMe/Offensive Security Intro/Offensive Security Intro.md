@@ -32,8 +32,8 @@
 
 
 ## 📷 Screenshots 
-![Room1.1.png](https://github.com/RealMohd/My-Cybersecurity-Portfolio/blob/main/Reports/TryHackMe/Room1/Room1.1.png).
-![Room1.2.png](https://github.com/RealMohd/My-Cybersecurity-Portfolio/blob/main/Reports/TryHackMe/Room1/Room1.2.png)
+![Room1.1.png](https://github.com/RealMohd/My-Cybersecurity-Portfolio/blob/main/TryHackMe/Offensive%20Security%20Intro/Room1.1.png).
+![Room1.2.png](https://github.com/RealMohd/My-Cybersecurity-Portfolio/blob/main/TryHackMe/Offensive%20Security%20Intro/Room1.2.png)
 ---
 ## 📌 Notes
 - In this room I learn how to use dirb tool for directory brute-force.
