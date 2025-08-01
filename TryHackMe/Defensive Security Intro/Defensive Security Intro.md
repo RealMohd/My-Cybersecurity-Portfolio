@@ -57,7 +57,6 @@
     -Real threats (unauthorized IP activity)
 
 - Located and copied the flag in the format THM{...}
-## Screenshots 
 
 ---
 ## Notes
@@ -120,4 +119,5 @@
 
 ## Written by
 RealMohd  [https://github.com/RealMohd]  
+
 📅 Date: 1 August 2025
