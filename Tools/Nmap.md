@@ -15,8 +15,9 @@
 >Stealth scan : Baiscally is to send SYN when the server send SYN/ACK we do a reset (on some old version the logs might not be saved because the process didn't complete) all this prosess to have no logs of this scan.
 - "-Pn" used in no ping scan
 - Aggressive scan"-A" equal to "-O -sV -sC" all together
-- "--scrip=..." to run spicefic script
+- "--scrip=..." to run specific script
 - "-T(0-5)" we use this to speed up the process we can use the numberes from 0-5 
 - "-f" fragmenting the packet
 - "-g" do the scaning from specific port
+
 
