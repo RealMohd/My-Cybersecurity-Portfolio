@@ -10,7 +10,7 @@ I showcase my technical notes, lab reports, bug bounty progress, and overall lea
 ## About Me
 
 - I'm a final-year Computer Engineering student.
-- Passionate about cybersecurity with a clear focus on penetration testing and red teaming.
+- Passionate about cybersecurity.
 - Long-term goal: Join a red team at a reputable organization (remotely or on-site).
 - Committed to consistency - I dedicate at least one hour daily, no matter how busy life gets.
 - I document my journey bot just to learn deeply, but also to build credibility in the field.
